@@ -1,4 +1,5 @@
 import unittest
+""" Doc string """
 
 def isGood():
     return True
