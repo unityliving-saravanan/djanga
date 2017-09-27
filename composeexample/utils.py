@@ -1,7 +1,7 @@
 import unittest
 
 def isGood():
-    return False
+    return True
 
 class UtilsTest(unittest.TestCase):
     def test(self):
